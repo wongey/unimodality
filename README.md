@@ -18,8 +18,11 @@ In 2013, Pak and Panova proved the strict unimodality property of q-binomial coe
 
 ### Paper Status
 
-- A preprint of our paper can be found on [arXiv:TBD](https://arxiv.org/).
+- This paper has been submitted for publication. A preprint of our paper can be found here: [arXiv:2302.04067](https://arxiv.org/abs/2302.04067).
 
 ### Files
 
--  A link to the Mathematica notebook will be placed here.
+-  All computations from our paper have been compiled in the following notebook. We include a pdf so that the computations are accessible to those without a Mathematica installation.
+   - Mathematica Notebook (1.3 MB): [unimodality_public.nb](https://drive.google.com/file/d/1oPesE_KdkIC4XEo97BANPcje4a_fBUlr/view?usp=sharing).
+   - PDF Version (436 KB): [unimodality_public.pdf](https://drive.google.com/file/d/1CKoSqpL3qFOn_I8hgKeL6IrDbLKlMpqd/view?usp=sharing).
+
