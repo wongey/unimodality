@@ -18,19 +18,21 @@ In 2013, Pak and Panova proved the strict unimodality property of q-binomial coe
 
 ### Paper
 
-- A preprint of our paper can be found here: [arXiv:2302.04067](https://arxiv.org/abs/2302.04067).
+- Preprint: [arXiv:2302.04067](https://arxiv.org/abs/2302.04067).
 
-### Files
+### Computation Files
 
--  The computations from our paper have been compiled in the following notebook. We include a pdf so that they are accessible to those without a Mathematica installation.
-   - Mathematica Notebook (1.3 MB): [unimodality.nb](https://drive.google.com/file/d/1oPesE_KdkIC4XEo97BANPcje4a_fBUlr/view?usp=sharing).
-   - PDF Version (436 KB): [unimodality.pdf](https://drive.google.com/file/d/1CKoSqpL3qFOn_I8hgKeL6IrDbLKlMpqd/view?usp=sharing).
+ - Mathematica Notebook (1.3 MB): [unimodality.nb](https://drive.google.com/file/d/1oPesE_KdkIC4XEo97BANPcje4a_fBUlr/view?usp=sharing).
+ - PDF Version (436 KB): [unimodality.pdf](https://drive.google.com/file/d/1CKoSqpL3qFOn_I8hgKeL6IrDbLKlMpqd/view?usp=sharing).
 
 ### Past and Upcoming Talks
 
-- February 28, 2023 (Ali Uncu, Online): [Number Theory Seminar](https://people.clas.ufl.edu/alexb/number-theory-seminar/) at the University of Florida, USA
-- February 23, 2023 (Ali Uncu, Online): [Specialty Seminar in Partition Theory](https://pages.mtu.edu/~wjkeith/PartitionsSpecialtySeminar/) at Michigan Technological University, USA
-- July 8, 2022 (Elaine Wong, In Person): [Algorithmic and Enumerative Combinatorics Conference](http://www3.risc.jku.at/conferences/aec2022/?content=program) at Vienna University of Technology, Austria
+- 2023.02.28 (Ali Uncu, Online)
+    - [Number Theory Seminar](https://people.clas.ufl.edu/alexb/number-theory-seminar/) at the University of Florida, USA
+- 2023.02.23 (Ali Uncu, Online)
+    - [Specialty Seminar in Partition Theory](https://pages.mtu.edu/~wjkeith/PartitionsSpecialtySeminar/) at Michigan Technological University, USA
+- 2022.07.08 (Elaine Wong, In Person)
+    - [Algorithmic and Enumerative Combinatorics Conference](http://www3.risc.jku.at/conferences/aec2022/?content=program) at Vienna University of Technology, Austria
 
 ### Summer Internship at Oak Ridge National Laboratory
 
