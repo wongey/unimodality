@@ -33,7 +33,3 @@ In 2013, Pak and Panova proved the strict unimodality property of q-binomial coe
     - [Specialty Seminar in Partition Theory](https://pages.mtu.edu/~wjkeith/PartitionsSpecialtySeminar/) at Michigan Technological University, USA
 - 2022.07.08 (Elaine Wong, In Person)
     - [Algorithmic and Enumerative Combinatorics Conference](http://www3.risc.jku.at/conferences/aec2022/?content=program) at Vienna University of Technology, Austria
-
-### Summer Internship at Oak Ridge National Laboratory
-
-- Please contact [Elaine](mailto:wongey@ornl.gov) regarding a summer 2023 internship opportunity at ORNL related to this work.
