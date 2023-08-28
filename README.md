@@ -15,10 +15,11 @@ In 2013, Pak and Panova proved the strict unimodality property of q-binomial coe
 - [Elaine Wong](https://wongey.com), Oak Ridge National Laboratory, USA
   - [wongey@ornl.gov](mailto:wongey@ornl.gov)
 
-
 ### Paper
 
+- Published: [ISSAC 2023 Proceedings](https://doi.org/10.1145/3597066.3597113).
 - Preprint: [arXiv:2302.04067](https://arxiv.org/abs/2302.04067).
+- Cite us using this [bib](https://wongey.com/bib/#KoutschanUncuWong2023).
 
 ### Computation Files
 
